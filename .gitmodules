@@ -1,0 +1,3 @@
+[submodule "SoX/sox-code"]
+	path = SoX/sox-code
+	url = ./
